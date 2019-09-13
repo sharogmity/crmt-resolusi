@@ -2,3 +2,4 @@ CRMT RESOLUSI
 - Javascript
 - Laravel
 - JS framework (React)
+- Nikah
